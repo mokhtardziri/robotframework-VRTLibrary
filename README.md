@@ -13,7 +13,7 @@ For information about Visual Regression Tracker please visit the
 The package is stored in PyPI .
 To install package execute command:
 
-```pip install VRT```
+```pip install bmx-vrt```
 
 ##Importing
 
