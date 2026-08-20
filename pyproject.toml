@@ -1,11 +1,11 @@
 [tool.poetry]
-name = "bmx-vrt"
+name = "bmx-robotframework-vrt"
 description = "VRT is a library for integrating Visual Regression Tracker with Robot Framework."
-version = "0.1.4"
+version = "0.1.5"
 authors = ["Katarzyna Wawrzynek <katarzyna.wawrzynek@niceproject.eu>"]
 license = "Apache-2.0"
 readme = "README.md"
-repository = "https://github.com/NiceProjectPoland/robotframework-VRTLibrary"
+repository = "https://github.com/mokhtardziri/robotframework-VRTLibrary"
 packages = [
     { include = "VRT" },
 ]

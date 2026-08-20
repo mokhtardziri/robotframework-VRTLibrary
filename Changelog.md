@@ -6,4 +6,4 @@
 
 0.1.3 first open-source version
 
-0.1.4 Renamed distribution to bmx-vrt and dependency to bmx-visual-regression-tracker
+0.1.5 Renamed distribution to bmx-vrt and dependency to bmx-visual-regression-tracker
